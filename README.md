@@ -2,8 +2,8 @@
 
 <a href="https://github.com/TheEverlastingBish/github-stats">
 
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/TheEverlastingBish/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/TheEverlastingBish/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
