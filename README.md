@@ -1,7 +1,7 @@
-# [GitHub Stats Visualization](https://github.com/jasongaylord/github-stats)
+# [GitHub Stats Visualization](https://github.com/TheEverlastingBish/github-stats)
 
-<a href="https://github.com/jasongaylord/github-stats">
-   
+<a href="https://github.com/TheEverlastingBish/github-stats">
+
 ![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
 
